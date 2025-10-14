@@ -90,7 +90,7 @@ p align="center">
   <a href="portfolio-ecru-phi-86.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/JD">
+  <a href="[https://github.com/JD](https://github.com/NishanRosary)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="[https://www.instagram.com/yourusername/](https://www.instagram.com/_____.nishan._____?igsh=OHRxMnd2b24zODdx)">
