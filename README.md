@@ -54,7 +54,7 @@ I love combining design and development to build seamless digital experiences â€
 ---
 
 ## ðŸ“Š GitHub Stats
-p align="center">
+<p align="center">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=NishanRosary&show_icons=true&theme=radical" height="180" />
   
