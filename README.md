@@ -55,19 +55,6 @@ I love combining design and development to build seamless digital experiences â€
 
 ## ðŸ“Š GitHub Stats
 
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NishanRosary&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanRosary&layout=compact&theme=radical&hide_border=true"
-    height="180"
-  />
-</p>
 
 <p align="center">
   <!-- Contribution Graph -->
@@ -77,13 +64,6 @@ I love combining design and development to build seamless digital experiences â€
   />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=NishanRosary&theme=radical&hide_border=true"
-    height="180"
-  />
-</p>
 
 ---
 
