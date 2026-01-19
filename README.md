@@ -11,7 +11,7 @@ I love combining design and development to build seamless digital experiences �
 - 🌱 Currently exploring **Product Engineering** & advanced **Frontend Architecture**  
 - 💡 Passionate about **UI/UX Design** and turning creative ideas into functional code  
 - 🎯 Goal: To create impactful, scalable, and user-friendly products  
-- ⚡ Fun fact: I design on **Canva** and deploy on **Vercel**
+- ⚡ Fun fact: I design on **Figma**,**Canva** and deploy on **Vercel**,**Github**
 
 ---
 
