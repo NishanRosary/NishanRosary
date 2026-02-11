@@ -64,16 +64,12 @@ I love combining design and development to build seamless digital experiences â€
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NishanRosary&show_icons=true&theme=react&hide_border=true" 
-    width="45%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanRosary&layout=compact&theme=react&hide_border=true" 
-    width="45%" 
-  />
-</p>
+## ðŸš€ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <p align="center">
   <img 
