@@ -66,8 +66,7 @@ I love combining design and development to build seamless digital experiences â€
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=NishanRosary&theme=onedark&no-frame=true&row=1&column=6" 
-    width="90%" 
+    src="https://komarev.com/ghpvc/?username=NishanRosary&style=flat-square&color=blue" 
   />
 </p>
 
