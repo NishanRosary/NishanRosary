@@ -64,6 +64,24 @@ I love combining design and development to build seamless digital experiences â€
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NishanRosary&show_icons=true&theme=react&hide_border=true" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanRosary&layout=compact&theme=react&hide_border=true" 
+    width="45%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=NishanRosary&theme=react&hide_border=true" 
+    width="60%" 
+  />
+</p>
+
 
 ---
 
