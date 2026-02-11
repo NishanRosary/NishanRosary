@@ -64,11 +64,12 @@ I love combining design and development to build seamless digital experiences â€
   />
 </p>
 
-## ðŸš€ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=NishanRosary&theme=onedark&no-frame=true&row=1&column=6" 
+    width="90%" 
+  />
+</p>
 
 
 <p align="center">
