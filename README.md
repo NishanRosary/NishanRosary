@@ -1,9 +1,8 @@
 # 👋 Hey there, I'm S NISHAN ROSARY!
 
-### 💻 Software Developer 
+### 💻 Software Developer & Machine Learning Engineer
 
-I'm passionate about crafting **clean, responsive, and user-focused web applications**.  
-I love combining design and development to build seamless digital experiences — from **frontend design** to **full-stack logic**.
+I’m passionate about building clean and responsive applications while integrating machine learning to make systems smarter and more efficient. I enjoy working across the stack — from frontend design to backend logic and predictive modeling to create seamless and intelligent digital experiences.
 
 ---
 
