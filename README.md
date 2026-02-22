@@ -2,8 +2,8 @@
 
 ### 💻 AI Driven Software Developer & Machine Learning Engineer
 
-I am passionate about developing intelligent, scalable software solutions by combining full-stack engineering with machine learning. I focus on building clean, responsive applications enhanced with AI-driven insights to create smarter and more efficient digital systems. I enjoy working across the entire development lifecycle — from frontend architecture and backend system design to model training and predictive deployment — to deliver seamless, data-powered user experiences.
----
+I’m passionate about building scalable software solutions by combining full-stack development with machine learning. I enjoy creating clean, responsive applications and integrating ML models to make systems smarter and more efficient. I like working across the stack — from frontend design and backend logic to model training and deployment — to deliver practical, data-driven digital solutions.
+
 
 ## 🧠 About Me
 - 🤖 Exploring advanced Machine Learning Engineering, AI System Design, and Prompt Engineering
