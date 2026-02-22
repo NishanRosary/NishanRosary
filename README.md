@@ -1,16 +1,15 @@
 # 👋 Hey there, I'm S NISHAN ROSARY!
 
-### 💻 Software Developer & Machine Learning Engineer
+### 💻 AI Driven Software Developer & Machine Learning Engineer
 
-I’m passionate about building clean and responsive applications while integrating machine learning to make systems smarter and more efficient. I enjoy working across the stack — from frontend design to backend logic and predictive modeling to create seamless and intelligent digital experiences.
-
+I am passionate about developing intelligent, scalable software solutions by combining full-stack engineering with machine learning. I focus on building clean, responsive applications enhanced with AI-driven insights to create smarter and more efficient digital systems. I enjoy working across the entire development lifecycle — from frontend architecture and backend system design to model training and predictive deployment — to deliver seamless, data-powered user experiences.
 ---
 
 ## 🧠 About Me
-- 🌱 Currently exploring **Product Engineering** & advanced **Frontend Architecture**  
-- 💡 Passionate about **UI/UX Design** and turning creative ideas into functional code  
-- 🎯 Goal: To create impactful, scalable, and user-friendly products  
-- ⚡ Fun fact: I design on **Figma**,**Canva** and deploy on **Vercel**,**Github**
+- 🤖 Exploring advanced Machine Learning Engineering, AI System Design, and Prompt Engineering
+- 🧩 Passionate about integrating ML models into production-grade applications
+- 🎯 Goal: To build intelligent, scalable, and high-performance AI-driven products
+- ⚡ Skilled in designing with Figma & Canva, developing with modern web stacks, and deploying via Vercel & GitHub
 
 ---
 
@@ -49,6 +48,25 @@ I’m passionate about building clean and responsive applications while integrat
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+**Packages:**
+ <p>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+**Generative AI:**
+ <p>
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_AI-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 ---
 
